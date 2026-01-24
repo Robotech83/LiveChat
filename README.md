@@ -2,6 +2,7 @@
 
 A lightweight, browser-based chat interface built with **vanilla JavaScript**, HTML, and CSS.  
 This project demonstrates real-time UI updates, event-driven logic, and clean DOM manipulation **without frameworks**.
+This project is still under construction
 
 🔗 **Live Demo:**  
 https://robotech83.github.io/LiveChat/
